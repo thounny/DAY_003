@@ -91,6 +91,11 @@ This function removes the "expand" effect from all grid items when called.
 
 ---
 
+## DEMO
+![Photo Gallery Demo](./images/DAY_003_1.gif)  
+
+---
+
 ## Author
 
 ![logo](https://web.archive.org/web/20091027053343/http://geocities.com/animecap/index_dwn.gif)
