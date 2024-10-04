@@ -3,6 +3,13 @@
 
 This project is part of the daily code challenge series, **DAY_003**, and it demonstrates a simple Photo Gallery with expanding images when you click on them. The gallery is built using HTML, CSS, and JavaScript, and it uses animated `.gif` images.
 
+---
+
+## DEMO
+![Photo Gallery Demo](./images/DAY_003_1.gif)  
+
+---
+
 ## Project Structure
 
 ```bash
@@ -88,11 +95,6 @@ function resetGrid() {
 ```
 
 This function removes the "expand" effect from all grid items when called.
-
----
-
-## DEMO
-![Photo Gallery Demo](./images/DAY_003_1.gif)  
 
 ---
 
